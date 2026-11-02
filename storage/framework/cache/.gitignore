@@ -1,3 +1,6 @@
 *
 !data/
 !.gitignore
+.env
+.env.*
+!.env.example
